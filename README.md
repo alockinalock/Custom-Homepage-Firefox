@@ -22,6 +22,12 @@ This was originally inspired by [this video](https://youtu.be/0H_R_mcVBMI?list=L
 
 ---
 
+### Don't want to run a local server just to change your Firefox's homepage?
+
+This project is being hosted on [GitHub Pages](https://alockinalock.github.io/Custom-Homepage-Firefox/). Simply ignore steps 1 through 5 for the local server, and in step 8 input the GitHub Pages link.
+
+---
+
 ### Need help stopping the server?
 
 This is not a thing specific to this project. If you need to know how to stop the server, I suggest you start googling and researching. Hey, even ChatGPT could help you.
