@@ -25,3 +25,10 @@ This was originally inspired by [this video](https://youtu.be/0H_R_mcVBMI?list=L
 ### Need help stopping the server?
 
 This is not a thing specific to this project. If you need to know how to stop the server, I suggest you start googling and researching. Hey, even ChatGPT could help you.
+
+---
+
+### Want to see what it actually looks likes?
+
+It looks like this.
+![example](https://github.com/alockinalock/Custom-Homepage-Firefox/assets/113492071/8b848bed-b6c6-47ba-bf00-53c41d3335be)"exampleIMG"
