@@ -44,4 +44,4 @@ It looks like this.
 
 ### Will this be an extension?
 
-Most likely not. This was a small project I created for fun. In the end, not even I use it anymore. If you'd prefer to not have the URL appear in the search bar, forcing you to use the CTRL/CMD + L shortcut, or whatever other problem that can be fixed by an extension, I suggest you use [Tabliss.io](https://tabliss.io/). I may consider it in the future, as Tabliss' time widget lacks months and day of the week.
+Most likely not. This was a small project I created for fun. In the end, not even I use it anymore. If you'd prefer to not have the URL appear in the search bar, forcing you to use the CTRL/CMD + L shortcut, or whatever other problem that can be fixed by an extension, I suggest you use [Tabliss.io](https://tabliss.io/). I may consider it in the future, as Tabliss' lacks some features I personally desire.
