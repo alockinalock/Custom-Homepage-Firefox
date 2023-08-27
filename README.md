@@ -31,4 +31,4 @@ This is not a thing specific to this project. If you need to know how to stop th
 ### Want to see what it actually looks likes?
 
 It looks like this.
-![example](https://github.com/alockinalock/Custom-Homepage-Firefox/assets/113492071/8b848bed-b6c6-47ba-bf00-53c41d3335be)"exampleIMG"
+![example](https://github.com/alockinalock/Custom-Homepage-Firefox/assets/113492071/8b848bed-b6c6-47ba-bf00-53c41d3335be)
