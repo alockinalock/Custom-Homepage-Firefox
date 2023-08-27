@@ -40,3 +40,8 @@ It looks like this.
 
 ![Screenshot 2023-08-27 at 2 12 50 AM](https://github.com/alockinalock/Custom-Homepage-Firefox/assets/113492071/2007f6a9-9733-4f35-8d29-41d69b82d1f6)
 
+---
+
+### Will these be an extension?
+
+Most likely not. This was a small project I created for fun. In the end, not even I use it anymore. If you'd prefer to not have the URL appear in the search bar, forcing you to use the CTRL/CMD + L shortcut, or whatever other problem that can be fixed by an extension, I suggest you use [Tabliss.io](https://tabliss.io/). I'm not at the level of making such an extension, so I'll let the people who do it better handle this one.
