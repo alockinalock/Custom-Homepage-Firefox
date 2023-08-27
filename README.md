@@ -28,7 +28,9 @@ This is not a thing specific to this project. If you need to know how to stop th
 
 ---
 
-### Want to see what it actually looks likes?
+### Want to see what it actually looks like?
 
 It looks like this.
-![example](https://github.com/alockinalock/Custom-Homepage-Firefox/assets/113492071/8b848bed-b6c6-47ba-bf00-53c41d3335be)
+
+![Screenshot 2023-08-27 at 2 12 50 AM](https://github.com/alockinalock/Custom-Homepage-Firefox/assets/113492071/2007f6a9-9733-4f35-8d29-41d69b82d1f6)
+
