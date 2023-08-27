@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'osake';
+    src: url('Osake.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'metropolis';
+    src: url('Metropolis\ Medium.otf') format('opentype');
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.background {
+    background-image: url('Wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#dayOfWeek {
+    position: absolute;
+    top: 12.2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #3E243A;
+    font-family: 'osake', sans-serif;
+    font-size: 9vh;
+    
+}
+
+/* Styling for the monthDate element */
+#monthDate {
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2vh;
+    font-family: 'metropolis', sans-serif;
+    color: #3E243A;
+}
+
+
