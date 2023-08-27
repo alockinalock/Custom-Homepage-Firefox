@@ -42,6 +42,6 @@ It looks like this.
 
 ---
 
-### Will these be an extension?
+### Will this be an extension?
 
 Most likely not. This was a small project I created for fun. In the end, not even I use it anymore. If you'd prefer to not have the URL appear in the search bar, forcing you to use the CTRL/CMD + L shortcut, or whatever other problem that can be fixed by an extension, I suggest you use [Tabliss.io](https://tabliss.io/). I'm not at the level of making such an extension, so I'll let the people who do it better handle this one.
